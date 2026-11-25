@@ -1,4 +1,4 @@
-Verified that Python 3 and Git are installed on my MacBook Air.
+Verified that Python 3 and Git are installed on my MacBook Air. 
 Created the local project folder `snai-8518` and set up all required mission folders (`mission-00-setup` through `mission-08-final-report`), their `README.md` files, `number_converter.py`, and the root `README.md`.
 Initialized a local Git repository, connected it to my public GitHub repository (`snai-8518`), and pushed the initial setup commit.
 My understanding
