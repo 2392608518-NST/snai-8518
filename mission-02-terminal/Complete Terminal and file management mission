@@ -1,0 +1,31 @@
+Task1
+
+- The objective of Mission 2 was to practise navigating directories and managing files safely using the command-line interface (CLI), understand how command flags and pipes work, and explain the role of package managers.
+
+Task 2 Work completed.                                 Practised 9 core Terminal commands for navigation and file management.               
+
+Task 2.1 Basic Terminal Operations
+
+Current-directory display (`pwd`) | [Shows the full path of the folder you are currently inside]
+| Directory listing (`ls`) [Lists the names of files and folders in your current location] 
+| Detailed listing (`ls -l`) [Lists files and folders with extra details like permissions, size, and date modified.] 
+| Change directory (`cd`) | [Moves you one level up to the parent folder]
+| Create directory (`mkdir`) | [Creates a new empty folder] 
+| Create empty file (`touch`) | [Creates a new empty file] 
+| Copy file (`cp`) | [Makes a duplicate of a file with a new name or location] 
+| Move / rename file (`mv`) | [Renames a file or moves it to another folder without leaving a duplicate] 
+| Display file contents (`cat`) | [Prints the text inside a file directly onto the Terminal screen] 
+
+Task 2.2 - File Changes Notes
+Replacing vs. adding text
+Copying vs. moving
+Current-directorydisplay (`pwd`)
+Directory listing (`ls`)
+
+Task 3 - Commands / tools used
+* `pwd`, `ls`, `cd`, `mkdir`, `touch`, `cp`, `mv`, `cat`, `echo`, `head`, `brew` – [Briefly explain the purpose of each command used]
+* **Tools used:** macOS Terminal and VS Code.
+
+Task 4 - My Understanding
+
+Through this mission, I learned how to navigate folders and manage files directly using text commands in the Terminal instead of relying on a graphical file manager. Using commands like pwd, ls, mkdir, touch, cp, and mv made it clear how fast and precise file operations become once you know your current directory path. I also understood that flags modify how commands behave (such as showing hidden files or detailed sizes), pipes (|) connect commands together by passing the output of one into another, and package managers automate installing and updating software safely from the command line.
